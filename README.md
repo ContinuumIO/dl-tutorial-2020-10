@@ -1,4 +1,4 @@
-# dl-tutorial-202010
+# dl-tutorial-2020-10
 Notebooks from Anaconda Deep Learning with GPUs tutorial
 
 To view the figures in these notebooks online, use these nbviewer links:
